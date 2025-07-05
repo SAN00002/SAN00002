@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hey, I'm Sandhya S!
 
-<!--
-**SAN00002/SAN00002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year student | 📊 Aspiring Data Analyst 
 
-Here are some ideas to get you started:
+I love solving real-world problems using Python, Power BI, Excel & SQL.
+💡 Projects I'm Proud Of:
+💰 Expense Tracker → Python script + Power BI insights
+🏪 Retail Loss Dashboard → Excel + Power BI for business intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Skills
+Python · Power BI · Excel · SQL · Data Visualization · Cybersecurity basics
+
+🌱 Currently learning every day and building cool things ✨
