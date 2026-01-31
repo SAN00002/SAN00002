@@ -10,6 +10,6 @@ I love solving real-world problems using Python, Power BI, Excel & SQL.
 🏪 Retail Loss Dashboard → Excel + Power BI for business intelligence
 
 🧰 Skills
-Python · Power BI · Excel · SQL · Data Visualization · Cybersecurity basics
+Python · Power BI · Excel · PostgreSQL · Data Visualization · ML basics
 
 🌱 Currently learning every day and building cool things ✨
