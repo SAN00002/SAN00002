@@ -1,15 +1,17 @@
-👋 Hey, I'm Sandhya S!
+# Hi, I'm Sandhya 👋
 
-🎓 Final-year student | 📊 Aspiring Data Analyst 
+Robotics Engineer focused on building intelligent robotic systems.
 
-I love solving real-world problems using Python, Power BI, Excel & SQL.
-💡 Projects I'm Proud Of:
+## 🚀 Skills
+- ROS2
+- Python
+- C++
+- Computer Vision
+- Autonomous Systems
+- Linux
 
-💰 Expense Tracker → Python script + Power BI insights
-
-🏪 Retail Loss Dashboard → Excel + Power BI for business intelligence
-
-🧰 Skills
-Python · Power BI · Excel · PostgreSQL · Data Visualization · ML basics
-
-🌱 Currently learning every day and building cool things ✨
+## 📚 Currently Learning
+- Robot perception
+- SLAM
+- Motion planning
+- Reinforcement learning for robotics
