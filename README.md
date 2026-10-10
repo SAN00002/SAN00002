@@ -1,17 +1,13 @@
-# Hi, I'm Sandhya 👋
-
-Robotics Engineer focused on building intelligent robotic systems.
+# Hi, I'm Sandhya 
+Engineer focused on building intelligent systems.
 
 ## 🚀 Skills
-- ROS2
 - Python
-- C++
+- SQL
+- Pandas
+- Power BI
+- ML(basic)
 - Computer Vision
 - Autonomous Systems
 - Linux
 
-## 📚 Currently Learning
-- Robot perception
-- SLAM
-- Motion planning
-- Reinforcement learning for robotics
